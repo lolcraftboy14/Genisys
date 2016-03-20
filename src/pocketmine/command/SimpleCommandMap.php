@@ -76,7 +76,7 @@ use pocketmine\utils\TextFormat;
 
 
 use pocketmine\command\defaults\ExtractPluginCommand;
-use pocketmine\command\defaults\ExtractPharCommand;
+
 use pocketmine\command\defaults\MakePluginCommand;
 use pocketmine\command\defaults\BancidbynameCommand;
 use pocketmine\command\defaults\BanipbynameCommand;
@@ -107,7 +107,7 @@ class SimpleCommandMap implements CommandMap{
 		$this->register("pocketmine", new BancidbynameCommand("bancidbyname"));
 		$this->register("pocketmine", new BanipbynameCommand("banipbyname"));
 
-		$this->register("pocketmine", new ExtractPharCommand("extractphar"));
+
 		$this->register("pocketmine", new ExtractPluginCommand("extractplugin"));
 		$this->register("pocketmine", new MakePluginCommand("makeplugin"));
 
