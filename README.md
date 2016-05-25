@@ -8,7 +8,7 @@ Special thanks to [JetBrains](https://www.jetbrains.com) for providing free open
 ### Build status
 Jenkins: [![Jenkins](https://img.shields.io/jenkins/s/http/jenkins.mcper.cn/Genisys-master.svg)](https://jenkins.mcper.cn/job/Genisys-master/)  
 Travis-CI: [![Travis-CI](https://img.shields.io/travis/iTXTech/Genisys/master.svg)](https://travis-ci.org/iTXTech/Genisys)  
-GitLab CI: [![GitLab CI](https://gitlab.com/itxtech/genisys/badges/master/build.svg)](https://gitlab.com/itxtech/genisys/builds)
+GitLab CI: [![GitLab CI](https://gitlab.com/lolcraftboy14/nethercube-fork-of-genisys/badges/master/build.svg)](https://gitlab.com/lolcraftboy14/nethercube-fork-of-genisys/builds)
 
 ### Downloads
 You can get prebuilt phar from [Jenkins](https://jenkins.mcper.cn/job/Genisys-master/) or [GitLab](https://gitlab.com/itxtech/genisys/builds).
